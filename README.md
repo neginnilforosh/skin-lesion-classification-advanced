@@ -1,14 +1,5 @@
 
 
-```markdown
-# Skin Lesion Classification on HAM10000 Dataset
-### Applied Machine Learning - Advanced Course Final Project
-
-**Student Name:** Negin Nillforoosh  
-**Matricola:** 1164045  
-
----
-
 ## Project Overview
 This repository contains the advanced deep learning project focused on classifying skin lesions using the **HAM10000 dataset**. The project addresses severe class imbalance in medical imaging and follows a rigorous engineering pipeline, comparing multiple modeling strategies from simple baselines to deep transfer learning.
 
@@ -22,8 +13,6 @@ The project is strictly organized to adhere to professional software engineering
 
 ```
 
-* **`Negin_Machine_Learning_Advanced_Project.ipynb`**: Contains the core pipeline, including exploratory data analysis (EDA), training routines, and evaluation.
-* **`utils.py`**: A dedicated Python module that houses reusable functions for drawing training histories, computing advanced evaluation metrics, plotting labeled confusion matrices, and extracting classical image features.
 
 ---
 
