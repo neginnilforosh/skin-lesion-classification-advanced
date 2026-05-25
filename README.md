@@ -1,6 +1,3 @@
-# Skin Lesion Classification — Advanced Deep Learning Project
-
-
 
 ## Project Overview
 
