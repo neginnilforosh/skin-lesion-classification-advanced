@@ -1,8 +1,6 @@
 # Skin Lesion Classification — Advanced Deep Learning Project
 
-**Course:** Machine Learning (Advanced Track) — University of Bologna  
-**Author:** Negin Nilforosh  
-**Dataset:** [HAM10000 — Human Against Machine with 10000 training images](https://www.kaggle.com/datasets/kmader/skin-lesion-analysis-toward-melanoma-detection)
+
 
 ---
 
