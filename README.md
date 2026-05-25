@@ -51,6 +51,3 @@ To quantitatively justify the necessity of a complex Convolutional Neural Networ
 * **CNN from Scratch:** A custom residual architecture demonstrated solid pattern learning, far outperforming the baselines.
 * **Final Model (DenseNet121):** Utilizing transfer learning yielded the highest performance, significantly improving the sensitivity (recall) on critical minority classes like Melanoma.
 
-```
-
-```
