@@ -16,7 +16,7 @@ The project is strictly organized to adhere to professional software engineering
 
 ---
 
-## Implemented Enhancements (Second Submission)
+## Implemented Enhancements 
 
 In this final version, the project has been substantially upgraded to address previous methodological limitations:
 
