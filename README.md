@@ -2,8 +2,6 @@
 
 
 
----
-
 ## Project Overview
 
 This project addresses the multi-class classification of dermoscopic skin lesion images into seven diagnostic categories using the HAM10000 dataset. The central methodological challenge is severe class imbalance: the most frequent class (*Melanocytic Nevi*) accounts for roughly 67% of samples, while rare but clinically critical classes such as *Melanoma* and *Dermatofibroma* represent fewer than 10% combined.
